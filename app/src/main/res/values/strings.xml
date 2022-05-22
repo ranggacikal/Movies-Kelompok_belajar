@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Movies</string>
+    <string name="nim">Masukan Nomor Induk Mahasiswa</string>
+    <string name="password">Masukan Password</string>
+    <string name="email">Masukan Email</string>
+    <string name="alamat">Masukan Alamat</string>
+    <string name="nama">Masukan Nama Lengkap</string>
+    <string name="nohp">Masukan Nomor Handphone</string>
+    <string name="btnLogin">LOGIN</string>
+    <string name="register">Daftar Akun</string>
+    <string name="ubah">Edit Profil</string>
+    <string name="mahasiswa">Nama Lengkap</string>
+
+</resources>
